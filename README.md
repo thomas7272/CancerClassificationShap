@@ -1,5 +1,6 @@
 ## Project Title
 **Cancer Diagnosis Interface Using Machine Learning**
+![Screenshot 2024-03-16 180339](https://github.com/user-attachments/assets/44c76b3e-422c-4062-a23b-78883f86d9e0)
 
 ## Description
 This project aims to develop an interactive web application that leverages machine learning algorithms to assist in the diagnosis of cancer. The application allows users to input medical data and receive predictions about the likelihood of cancer, along with detailed insights into the diagnosis process. This tool is designed to aid medical professionals and researchers in making informed decisions based on data-driven analysis.
@@ -10,6 +11,8 @@ This project aims to develop an interactive web application that leverages machi
 - **Data Visualization:** Visual representation of input data and prediction results for better understanding.
 - **Real-time Analysis:** Instant prediction and feedback upon data submission.
 - **Secure Data Handling:** Ensures that user data is protected and handled with confidentiality.
+- 
+![Screenshot 2024-03-16 180718](https://github.com/user-attachments/assets/f8c2e0ba-30fd-4107-947e-ea2ac67be353)
 
 ## Technologies Used
 - **Frontend:**
